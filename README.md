@@ -1,8 +1,8 @@
 # WemoOnWemosForAlexa
-Wemo / Bellkin emulator for Alexa on Wemos board (or ESP8266 board)\n
-//
-// Emulateur de prise / switch Belkin pour Amazon Alexa
-// Fichiers de départ venants de https://github.com/kakopappa/arduino-esp8266-alexa-multiple-wemo-switch
+  Wemo / Bellkin emulator for Alexa on Wemos board (or ESP8266 board)
+  //
+  // Emulateur de prise / switch Belkin pour Amazon Alexa
+  // Fichiers de départ venants de https://github.com/kakopappa/arduino-esp8266-alexa-multiple-wemo-switch
 // Changelog :
 // Juillet 2018 : Modification Ludo Civodul pour le forum Alexa France : https://www.forumalexa.fr/
 // -> Ajout d'un fichier de configuration pour le SSID et le mot de passe
